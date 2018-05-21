@@ -1,3 +1,5 @@
+https://mybinder.org/v2/gh/forero/jupyterlab/master?urlpath=lab
+
 # JupyterLab + Binder
 
 [![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/jupyterlab/master?urlpath=lab/tree/index.ipynb)
